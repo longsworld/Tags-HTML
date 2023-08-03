@@ -6,5 +6,5 @@ Esse e meu primeiro projeto utilizando TAGs HTML aprendidas no curso da DIO
 
 - [Documentação Git](https://git-scm.com/)
 - [Documentação Github](https://github.com/)
-- [Link Curso DIO]([https://](https://web.dio.me/track/formacao-html-web-developer)https://web.dio.me/track/formacao-html-web-developer)
+- [Link Curso DIO](https://](https://web.dio.me/track/formacao-html-web-developer)https://web.dio.me/track/formacao-html-web-developer)
 

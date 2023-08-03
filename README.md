@@ -1,4 +1,4 @@
-# CriaNDO Uma Página Web Utilizando as Tags Aprendidas
+# Criando Uma Página Web Utilizando as Tags Aprendidas
 
 Esse e meu primeiro projeto utilizando TAGs HTML aprendidas no curso da DIO
 
